@@ -1,0 +1,13 @@
+.dis{
+    display: block;
+    margin-left: 20px;
+}
+.reg{
+    display: block;
+}
+body{
+    display: flex;
+    border: 1px solid black;
+    box-shadow: inset 0px 10px 10px 10px rgb(236, 234, 234);
+    padding: 15px;
+}
